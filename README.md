@@ -1,5 +1,7 @@
 # dividend-math
 
+[![CI](https://github.com/a353551071/dividend-math/actions/workflows/test.yml/badge.svg)](https://github.com/a353551071/dividend-math/actions/workflows/test.yml) [![npm](https://img.shields.io/badge/npm-not%20published-orange)](https://www.npmjs.com/package/dividend-math) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 > A tiny, zero-dependency TypeScript library for dividend math: yield, growth, DRIP reinvestment, monthly income and payout ratio. Pure functions, fully tested.
 
 No frameworks. No runtime dependencies. Just one file of pure functions you can drop into any project — browser, Node, or edge.

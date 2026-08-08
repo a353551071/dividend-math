@@ -4,6 +4,16 @@
   "description": "A tiny, zero-dependency TypeScript library for dividend math: yield, growth, DRIP reinvestment, monthly income and payout ratio. Pure functions, fully tested.",
   "type": "module",
   "main": "src/dividend.ts",
+  "types": "src/dividend.ts",
+  "files": ["src"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a353551071/dividend-math.git"
+  },
+  "homepage": "https://www.dividendpayoutcalculator.com",
+  "bugs": {
+    "url": "https://github.com/a353551071/dividend-math/issues"
+  },
   "scripts": {
     "test": "vitest run",
     "test:watch": "vitest"
