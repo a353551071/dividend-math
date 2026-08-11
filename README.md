@@ -54,15 +54,17 @@ monthlyDividendIncome({ investment: 50000, dividendYieldPct: 13 }); // → ~541.
 payoutRatio({ dividendPerShare: 2, earningsPerShare: 5 }); // → 40 (%)
 ```
 
-## 🖥️ Live demo
+## 🖥️ Live calculators
 
-Want to see these formulas in action without wiring up code? I built a free
-**[dividend calculator](https://www.dividendpayoutcalculator.com)** using these
-exact functions — DRIP, yield, growth, monthly income, plus dedicated
-[SCHD](https://www.dividendpayoutcalculator.com/calculators/schd-dividend-calculator)
-and
-[QQQI](https://www.dividendpayoutcalculator.com/calculators/qqqi-dividend-calculator)
-calculators.
+These functions power a free [dividend payout calculator](https://www.dividendpayoutcalculator.com) suite — every page runs the exact library code above:
+
+- [DRIP calculator](https://www.dividendpayoutcalculator.com/calculators/drip-calculator) — year-by-year reinvestment projection
+- [Monthly dividend calculator](https://www.dividendpayoutcalculator.com/calculators/monthly-dividend-calculator) — income from monthly payers
+- [Dividend yield calculator](https://www.dividendpayoutcalculator.com/calculators/dividend-yield-calculator)
+- [Dividend growth calculator](https://www.dividendpayoutcalculator.com/calculators/dividend-growth-calculator)
+- [Payout ratio calculator](https://www.dividendpayoutcalculator.com/calculators/dividend-payout-ratio-calculator)
+- [SCHD dividend calculator](https://www.dividendpayoutcalculator.com/calculators/schd-dividend-calculator)
+- [QQQI dividend calculator](https://www.dividendpayoutcalculator.com/calculators/qqqi-dividend-calculator)
 
 ## 📖 API
 
